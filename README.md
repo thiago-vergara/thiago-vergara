@@ -1,4 +1,3 @@
-````md
 <pre align="center">
               _
              | |
