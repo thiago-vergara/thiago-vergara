@@ -1,12 +1,33 @@
+````md
+<pre align="center">
+              _
+             | |
+             | |===( )   ////// 
+             |_|   |||  | o o |
+                    ||| (  c  )                 ____
+                     ||| \ = /                 ||   \_
+                      ||||||                  ||     |
+                      ||||||               ...||__/|-"
+                      ||||||            __|________|__
+                        |||            |______________|
+                        |||            || 010101 || ||
+                        |||            ||  CODE  || ||
+------------------------|||------------||--------||-||-------
+                        |__>           ||        || ||
+</pre>
+<p align="center">
+  <em>Picando código, conectando sistemas y sobreviviendo a producción desde tiempos inmemorables.</em>
+</p>
+
 <h1 align="center">Hola, soy Thiago Vergara 👋</h1>
 
 <h3 align="center">
-💻 Software Developer | ⚙️ Backend & Integrations | 📱 Android | 👨‍🏫 Tech Educator
+💻 Software Developer | ⚙️ Backend & Integrations | 🔗 MuleSoft & Anypoint Platform | 📱 Android | 👨‍🏫 Tech Educator
 </h3>
 
 <p align="center">
   <em>
-    Transformo ideas en soluciones funcionales, automatizo procesos y explico tecnología sin hacer que nadie quiera cerrar la laptop.
+    Transformo ideas en soluciones funcionales, diseño integraciones que conectan sistemas y explico tecnología sin hacer que nadie quiera cerrar la laptop.
   </em>
 </p>
 
@@ -14,13 +35,13 @@
 
 ## 🚀 Sobre mí
 
-Soy bachiller en Ingeniería de Sistemas y me especializo en el desarrollo de soluciones tecnológicas orientadas a negocio, automatización y backend.
+Soy bachiller en Ingeniería de Sistemas y me especializo en el desarrollo de soluciones tecnológicas orientadas a negocio, backend, arquitectura de integraciones y automatización de procesos.
 
-Me gusta construir aplicaciones que realmente resuelvan problemas: desde microservicios con Java y Spring Boot, automatizaciones con Power Platform, integraciones con APIs, hasta aplicaciones móviles con Kotlin.
+Me gusta construir aplicaciones que realmente resuelvan problemas: desde microservicios con Java y Spring Boot, APIs escalables, integraciones con MuleSoft y Anypoint Platform, hasta aplicaciones móviles con Kotlin.
 
 También disfruto enseñar tecnología, crear ejemplos prácticos y convertir temas complejos en explicaciones claras, útiles y aplicables.
 
-> Mi filosofía: si algo se repite muchas veces, probablemente merece ser automatizado.  
+> Mi filosofía: si dos sistemas no se hablan, probablemente necesitan una buena API.  
 > Y si falla en producción... bueno, ahí empieza el verdadero aprendizaje 😄
 
 ---
@@ -28,9 +49,10 @@ También disfruto enseñar tecnología, crear ejemplos prácticos y convertir te
 ## 🧠 Actualmente estoy enfocado en
 
 - Desarrollo backend con **Java, Spring Boot y microservicios**
-- Automatización de procesos con **Power Apps, Power Automate y SharePoint**
+- Arquitectura de integraciones con **MuleSoft y Anypoint Platform**
+- Diseño, consumo y exposición de **APIs REST**
+- Integraciones entre sistemas empresariales, servicios cloud y bases de datos
 - Desarrollo móvil con **Android Studio y Kotlin**
-- Integraciones con APIs, mensajería y servicios cloud
 - Creación de proyectos educativos para enseñar programación
 - Mejora continua de arquitectura, buenas prácticas y despliegue
 
@@ -48,21 +70,22 @@ También disfruto enseñar tecnología, crear ejemplos prácticos y convertir te
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
+### Integrations & Enterprise Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anypoint_Platform-003366?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Led_Connectivity-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DataWeave-5E5CE6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise_Integrations-111827?style=for-the-badge" />
+</p>
+
 ### Bases de datos
 
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Power Platform & Automatización
-
-<p>
-  <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### Mobile & Frontend
@@ -81,7 +104,6 @@ También disfruto enseñar tecnología, crear ejemplos prácticos y convertir te
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/MuleSoft-00A0DF?style=for-the-badge" />
 </p>
 
 ---
@@ -96,19 +118,19 @@ Aplicación web para crear eventos, invitar participantes y realizar sorteos aut
 
 ---
 
+### 🔗 Integraciones empresariales con MuleSoft
+
+Diseño e implementación de APIs e integraciones para conectar sistemas empresariales, servicios externos, bases de datos y plataformas cloud.
+
+**Stack:** MuleSoft, Anypoint Platform, DataWeave, APIs REST, conectores empresariales.
+
+---
+
 ### 💸 Bot financiero por WhatsApp
 
 Sistema para registrar gastos mediante mensajes de texto o audio en WhatsApp, procesarlos con IA y guardarlos en Google Sheets.
 
 **Stack:** Apps Script, WhatsApp API, Google Sheets, Gemini, Speech-to-Text.
-
----
-
-### 🏢 Automatización de procesos internos
-
-Aplicaciones empresariales con Power Apps y Power Automate para gestionar registros, responsables, evidencias, reportes y flujos de aprobación.
-
-**Stack:** Power Apps, Power Automate, SharePoint, HTML dinámico, PDF automático.
 
 ---
 
@@ -137,9 +159,50 @@ Aplicaciones móviles para enseñar Kotlin, SQLite, Room, Retrofit, Firebase, Go
 
 ```txt
 Backend sólido        ████████████████████
-Automatización        ███████████████████░
+APIs REST             ███████████████████░
+Integraciones         ████████████████████
+MuleSoft              ████████████████░░░░
 Apps móviles          ████████████████░░░░
-Integraciones         ██████████████████░░
 Docencia tech         ████████████████████
 Frontend bonito       ███████████░░░░░░░░░
 CSS sin sufrir        ███░░░░░░░░░░░░░░░░░
+````
+
+---
+
+## 🧩 Un poco más personal
+
+* 👨‍🏫 Me gusta enseñar tecnología con ejemplos prácticos.
+* 🧠 Siempre estoy aprendiendo algo nuevo.
+* ⚙️ Me interesa la arquitectura de software y las buenas prácticas.
+* 🔗 Disfruto conectar sistemas que antes parecían vivir en planetas distintos.
+* 🚀 Me gusta convertir ideas en soluciones funcionales.
+* ☕ El café ayuda, pero un buen log ayuda más.
+* 🐛 Si no hay bugs, probablemente todavía no se probó lo suficiente.
+
+---
+
+## 📫 Conecta conmigo
+
+<p>
+  <a href="mailto:pedrovergara26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pedrovergara26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/pedro-thiago-vergara">
+    <img src="https://img.shields.io/badge/LinkedIn-Thiago_Vergara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>
+    “La tecnología no se trata solo de escribir código, sino de crear soluciones que conecten personas, sistemas e ideas.”
+  </em>
+</p>
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil ⭐
+</p>
+```
