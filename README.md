@@ -148,11 +148,6 @@ Aplicaciones móviles para enseñar Kotlin, SQLite, Room, Retrofit, Firebase, Go
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thiago-vergara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-vergara&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-vergara&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -188,8 +183,8 @@ CSS sin sufrir        ███░░░░░░░░░░░░░░░░�
 ## 📫 Conecta conmigo
 
 <p>
-  <a href="mailto:pedro.thiago@pthiagovergaravega.com">
-    <img src="https://img.shields.io/badge/Email-pedrovergara26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:thiago.vergara@thiagovergaravega.com">
+    <img src="https://img.shields.io/badge/Email-thiago.vergara%40thiagovergaravega.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/pedro-thiago-vergara">
