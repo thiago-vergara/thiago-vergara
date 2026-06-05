@@ -1,19 +1,21 @@
 <pre align="center">
-              _
-             | |
-             | |===( )   ////// 
-             |_|   |||  | o o |
-                    ||| (  c  )                 ____
-                     ||| \ = /                 ||   \_
-                      ||||||                  ||     |
-                      ||||||               ...||__/|-"
-                      ||||||            __|________|__
-                        |||            |______________|
-                        |||            || 010101 || ||
-                        |||            ||  CODE  || ||
-------------------------|||------------||--------||-||-------
-                        |__>           ||        || ||
+ 
+ _
+| |
+              | |===( )   //////
+             |_|   |||  | o o|
+                                         ||| ( c  )                 ____
+                                            ||| \= /                 ||   \_
+                                             ||||||                   ||     |
+                                             ||||||                ...||__/|-"
+                                             ||||||             __|________|__
+                                               |||             |______________|
+                                               |||             || ||      || ||
+                                               |||             || ||      || ||
+                              ------------------------|||-------------||-||------||-||-------
+                                               |__>            || ||      || ||
 </pre>
+
 <p align="center">
   <em>Picando código, conectando sistemas y sobreviviendo a producción desde tiempos inmemorables.</em>
 </p>
@@ -21,7 +23,11 @@
 <h1 align="center">Hola, soy Thiago Vergara 👋</h1>
 
 <h3 align="center">
-💻 Software Developer | ⚙️ Backend & Integrations | 🔗 MuleSoft & Anypoint Platform | 📱 Android | 👨‍🏫 Tech Educator
+💻 Software Developer <br>
+⚙️ Backend & Integrations <br>
+🔗 MuleSoft & Anypoint Platform <br>
+📱 Android Developer <br>
+👨‍🏫 Tech Educator
 </h3>
 
 <p align="center">
@@ -29,8 +35,6 @@
     Transformo ideas en soluciones funcionales, diseño integraciones que conectan sistemas y explico tecnología sin hacer que nadie quiera cerrar la laptop.
   </em>
 </p>
-
----
 
 ## 🚀 Sobre mí
 
